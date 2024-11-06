@@ -1,7 +1,4 @@
 ## Hi there 👋
-Here’s a suggested “About Me” section for your GitHub profile, based on your resume and experience:
-
-👋 About Me
 
 Hello! I’m Mohammad Rahil Iqbal, a passionate Software Developer currently pursuing my Bachelor’s degree in Computer Science and Engineering at Chandigarh University. My journey in tech is driven by a curiosity for solving real-world problems through technology, and I’m constantly expanding my skills in full-stack development, cloud computing, and IoT.
 
@@ -37,7 +34,6 @@ I’m always looking for opportunities to collaborate on innovative projects and
 📫 Connect with Me
 
 	•	Email: irahiliqbal@gmail.com
-	•	LinkedIn: Your LinkedIn Profile (replace with your actual LinkedIn URL)
 	•	GitHub: github.com/irahiliqbal
 
 Feel free to modify this as you see fit, especially if you have additional links or a specific style you prefer for your GitHub page!
