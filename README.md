@@ -36,7 +36,6 @@ I’m always looking for opportunities to collaborate on innovative projects and
 	•	Email: irahiliqbal@gmail.com
 	•	GitHub: github.com/irahiliqbal
 
-Feel free to modify this as you see fit, especially if you have additional links or a specific style you prefer for your GitHub page!
 <!--
 **irahiliqbal/irahiliqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
